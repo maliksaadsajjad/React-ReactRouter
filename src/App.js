@@ -38,5 +38,3 @@ function App() {
 }
 
 export default App;
-
-// btw just hit a 365-day streak on duolingo 
