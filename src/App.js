@@ -38,5 +38,3 @@ function App() {
 }
 
 export default App;
-
-// Entiendo un poco de espanol
