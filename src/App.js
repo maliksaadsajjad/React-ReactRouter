@@ -39,4 +39,4 @@ function App() {
 
 export default App;
 
-// ain't working today as well lol
+// Entiendo un poco de espanol
