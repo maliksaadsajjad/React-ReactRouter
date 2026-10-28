@@ -39,4 +39,4 @@ function App() {
 
 export default App;
 
-// got mid-term exams next week
+// see y'all there
