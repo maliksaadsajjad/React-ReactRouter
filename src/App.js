@@ -38,5 +38,3 @@ function App() {
 }
 
 export default App;
-
-// see y'all there
