@@ -39,4 +39,4 @@ function App() {
 
 export default App;
 
-// ai bet
+// got mid-term exams next week
