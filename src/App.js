@@ -38,5 +38,3 @@ function App() {
 }
 
 export default App;
-
-// wish me luck for mids btw
