@@ -39,4 +39,4 @@ function App() {
 
 export default App;
 
-// scholarship got verified
+// in the next 3-4 months i'll get my *moni* back
