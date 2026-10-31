@@ -39,4 +39,4 @@ function App() {
 
 export default App;
 
-// yet, i'm still gonna ace all exams
+// what color is the sky?
