@@ -38,5 +38,3 @@ function App() {
 }
 
 export default App;
-
-// what color is the sky?
