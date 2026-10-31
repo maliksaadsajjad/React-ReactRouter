@@ -39,4 +39,4 @@ function App() {
 
 export default App;
 
-// didn't study at all today
+// yet, i'm still gonna ace all exams
